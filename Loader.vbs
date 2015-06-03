@@ -1,4 +1,5 @@
-#####此代码复制并运行sd卡中的一个vbs((你的sd卡盘符)H:\r\run.txt)run.txt是你的vbs代码
+//此代码复制并运行sd卡中的一个vbs((你的sd卡盘符)H:\r\run.txt)run.txt是你的vbs代码
+//sd卡label必须为funnydisk，自定义请自己修改代码
 
 #include <usb_private.h>
 const int led_pin = 6;
