@@ -1,3 +1,5 @@
+#####此代码复制并运行sd卡中的一个vbs((你的sd卡盘符)H:\r\run.txt)run.txt是你的vbs代码
+
 #include <usb_private.h>
 const int led_pin = 6;
 //bool is_scroll_on(void) {return ((int(keyboard_leds)& 4) == 4) ? true : false;}
