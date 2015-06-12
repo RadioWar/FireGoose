@@ -6,11 +6,23 @@
 所以没有使用USB Rubber Ducky的固件功能，不可以直接使用USB Rubber Ducky的脚本，可以直接使用Arduino IDE来编写自定义代码、也可以使用S.E.T、Kautilya套件生成代码使用。 自带SD卡槽，可外接SD作为扩展，支持BadUSB代码。
 
 
-
 #FireGoose是否开源？
 
-我们现在并没有打算公开相关的设计图，但是为了更好的让大家使用烧鹅，我们并没有固化底层以及任何代码，并且代码部分我们都是公开的。
+我们现在已经公开相关的设计图，为了更好的让大家使用烧鹅，我们并没有固化底层以及任何代码，并且代码部分我们都是公开的。大家可以直接查看Gerber文件夹，以便阅读相关设计图。
 
+
+#FireGoose技术资料
+
+###Freebuf用户使用范例：
+- http://www.freebuf.com/tools/68265.html
+- http://www.freebuf.com/articles/67931.html
+- http://www.freebuf.com/tools/67563.html
+
+###RadioWar WIKI资料
+- http://wiki.radiowar.org/烧鹅
+
+
+#其他
 
 你可以途径购买或者DIY类似的硬件：[RadioWar淘宝店](http://radiowar.taobao.com)
 
