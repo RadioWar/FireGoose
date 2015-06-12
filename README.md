@@ -29,3 +29,5 @@
 烧鹅(FireGoose)购买链接：[点击进入](http://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-10986722805.3.HxjKY2&id=42202954800)
 
 Teensy++2.0 DIY套餐购买链接：[点击进入](http://meal.taobao.com/mealDetail.htm?spm=a1z10.1-c.w5003-10986818160.11.HxjKY2&meal_id=63882135&seller_id=817724908&scene=taobao_shop)
+
+烧鹅使用交流群：197061341 
