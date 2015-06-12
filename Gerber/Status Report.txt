@@ -1,0 +1,17 @@
+CAM Outputs Generation Report
+for 'CAM Outputs for YZ.cam'
+at 16:28:34 on 12-Jun-2015
+
+
+'Gerber Output 1'
+'YZ.GTL' generated
+'YZ.GBL' generated
+'YZ.GTO' generated
+'YZ.GBO' generated
+'YZ.GKO' generated
+'YZ.GD1' generated
+'YZ.GG1' generated
+'YZ.REP' generated
+
+
+Total number of generated files = 8

@@ -1,0 +1,127 @@
+*************************************************************
+FileName = YZ.GBR
+AutoAperture = True
+*************************************************************
+Generating : 
+      File : YZ.GTL
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : YZ.GBL
+
+    Adding Layer      : BottomLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D10
+    D13
+    D20
+    D21
+    D22
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : YZ.GTO
+
+    Adding Layer      : TopOverlay
+
+
+Used DCodes :
+    D21
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : YZ.GBO
+
+    Adding Layer      : BottomOverlay
+
+
+Used DCodes :
+    D10
+    D21
+    D38
+*************************************************************
+
+*************************************************************
+Generating : 
+      File : YZ.GKO
+
+    Adding Layer      : KeepOutLayer
+
+
+Used DCodes :
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : YZ.GD1
+
+    Adding Layer      : DrillDrawing
+
+    Adding Drill Pair : TopLayer-BottomLayer
+
+
+Used DCodes :
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : YZ.GG1
+
+    Adding Layer      : DrillGuide
+
+    Adding Drill Pair : TopLayer-BottomLayer
+
+
+Used DCodes :
+    D39
+*************************************************************
+
